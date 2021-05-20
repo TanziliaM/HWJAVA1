@@ -15,8 +15,7 @@
 \## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты\*:
-
-* <Bag report>
+* Bag report
 
 В качестве тестовых данных использовались данные <https://www.getcreditcardnumbers.com/>, <https://www.getnewidentity.com/diners-club-credit-card.php>, <https://ccgen.datagemba.com/card-generator/mir> :
 
@@ -31,5 +30,7 @@
 
 * <ПК, Windows10 PRO (64 бит)>
 * <IntelLiJ IDEA 2021.1.1. (Community Edition)>
+* <openjdk version "11.0.10" 2021-01-19>
+
 
 
